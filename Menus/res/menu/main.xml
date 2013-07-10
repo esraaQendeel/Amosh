@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/one"
+        android:orderInCategory="100"
+        android:title="1" tools:ignore="HardcodedText"/>
+
+    
+    <item
+        android:id="@+id/tow"
+        android:orderInCategory="100"
+        android:title="2" tools:ignore="HardcodedText"/>
+    <item
+        android:id="@+id/three"
+        android:orderInCategory="100"
+        android:title="3" tools:ignore="HardcodedText"/>
+
+    <item
+        android:id="@+id/fouur"
+        android:orderInCategory="100"
+        android:title="4" tools:ignore="HardcodedText"/>
+
+    
+    <item
+        android:id="@+id/five"
+        android:orderInCategory="100"
+        android:title="5" tools:ignore="HardcodedText"/>
+    <item
+        android:id="@+id/sex"
+        android:orderInCategory="100"
+        android:title="6" tools:ignore="HardcodedText"/>
+    <item
+        android:id="@+id/seven"
+        android:orderInCategory="100"
+        android:title="7"/>
+    <item
+        android:id="@+id/eight"
+        android:orderInCategory="100"
+        android:title="8"/>
+    
+</menu>
